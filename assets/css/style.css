@@ -146,7 +146,7 @@ a:hover {
 .title-s {
   font-weight: 600;
   color: #1e1e1e;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 /*--/ Title A /--*/
@@ -898,6 +898,11 @@ a:hover {
   
 }
 
+.custom-wei{
+  font-size: 10px;
+  font-weight: 800;
+}
+
 .about-me .custom-weight{
   font-weight: 380;
   font-size: 16px;
@@ -1020,6 +1025,12 @@ a:hover {
 
 .service-box .custom-weight{
   font-weight: 500;
+}
+
+.service-box .custom-w{
+  font-weight: 500;
+  font-size: 17px;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -1311,7 +1322,7 @@ a:hover {
    margin-top: 8px;
 }
 .custom-margin{
-  margin-top: 3px;
+  margin-top: 0px;
 }
 
 .php-email-form input:hover,
